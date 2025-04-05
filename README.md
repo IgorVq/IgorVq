@@ -1,4 +1,4 @@
-# Bonjour, je suis [Ton Nom] 👋
+# Bonjour, je suis IgorVq 👋
 
 🎓 Actuellement en formation **Développeur Web & Web Mobile** chez [ForEach Academy](https://www.foreach-academy.fr/formation-reconversion-developpeur-web-lille/), je me spécialise dans le développement full-stack.
 
